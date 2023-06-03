@@ -12,24 +12,13 @@ This repository provides a script that automates the setup process for a complet
 - Sets up environment variables for Android SDK and Java
 - Ensures a consistent and streamlined Flutter development environment
 
-## Usage
+### Usage
 
-1. Clone this repository to your local machine.
-2. Make the `flutter_complete_installation_linux.sh` script executable by running the following command:
-   
-```
-   chmod +x flutter_complete_installation_linux.sh
-```   
-
-3. Run the script with the following command:
+Clone this repository to your local machine by running the following command:
 
 ```  
-   ./flutter_complete_installation_linux.sh
-```
-   
-4. Follow the on-screen instructions and prompts to install the necessary tools and complete the setup process.
-
-Please note that you may need to have appropriate licenses and permissions for the tools being installed. Make sure to review the terms and conditions provided by the respective tool providers.
+git clone https://github.com/Raj-GMITS/flutter_setup_scripts.git;cd flutter_setup_scripts;chmod +x flutter_complete_installation_linux.sh;./flutter_complete_installation_linux.sh
+```  
 
 ## Contributing
 

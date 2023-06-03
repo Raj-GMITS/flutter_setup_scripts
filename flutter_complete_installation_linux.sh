@@ -73,7 +73,7 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
 
     # Check if "No issues found!" line exists
     if [[ $output == *"• No issues found!"* ]]; then
-        echo "All checks pass. No issues found!"
+        echo "Looks like All checks pass. Let me Show you..."
         echo "Running 'flutter doctor' command for detailed report:"
         flutter doctor
 
