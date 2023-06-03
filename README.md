@@ -15,16 +15,16 @@ This repository provides a script that automates the setup process for a complet
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Make the `flutter_android_setup.sh` script executable by running the following command:
+2. Make the `flutter_complete_installation_linux.sh` script executable by running the following command:
    
 ```
-   chmod +x flutter_android_setup.sh
+   chmod +x flutter_complete_installation_linux.sh
 ```   
 
 3. Run the script with the following command:
 
 ```  
-   ./flutter_android_setup.sh
+   ./flutter_complete_installation_linux.sh
 ```
    
 4. Follow the on-screen instructions and prompts to install the necessary tools and complete the setup process.
