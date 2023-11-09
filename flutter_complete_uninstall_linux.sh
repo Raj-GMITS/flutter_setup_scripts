@@ -21,9 +21,6 @@ line_exists() {
 sudo snap remove flutter
 sudo snap remove dart
 
-# Remove Git
-sudo apt purge -y git
-
 # Remove Visual Studio Code
 sudo snap remove code
 
