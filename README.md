@@ -17,7 +17,7 @@ This repository provides a script that automates the setup process for a complet
 To quickly set up your Flutter development environment on Ubuntu, simply copy and paste the following command into your terminal:
 
 ```  
-sudo -v;apt-get update -y;apt-get install git -y;git clone https://github.com/Raj-GMITS/flutter_setup_scripts.git;cd flutter_setup_scripts;chmod +x flutter_complete_installation_linux.sh;./flutter_complete_installation_linux.sh
+sudo -v;sudo apt update -y;sudo apt install git -y;git clone https://github.com/Raj-GMITS/flutter_setup_scripts.git;cd flutter_setup_scripts;chmod +x flutter_complete_installation_linux.sh;./flutter_complete_installation_linux.sh
 ```  
 
 ## Contributing
